@@ -364,7 +364,8 @@ pre code{
     -moz-background-size:cover;
     background-size:cover;
     -o-background-size:cover;
-    margin-bottom:0
+    margin-bottom:0;
+    text-shadow: 1px 1px #404040;
 }
 .intro-header.style-text{	
     background:0 0	
